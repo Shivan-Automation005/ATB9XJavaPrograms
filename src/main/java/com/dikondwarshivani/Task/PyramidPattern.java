@@ -1,4 +1,4 @@
 package com.dikondwarshivani.Task;
 
-public class ReverseArray {
+public class PyramidPattern {
 }
